@@ -2,4 +2,6 @@
 teste docker-compose
 Simple docker-compose test.
 
-run init.sh
+run init-docker-test.sh to install
+
+run clean-docker-test.sh to remove
